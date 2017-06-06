@@ -1,0 +1,14 @@
+{
+	"auto_complete": false,
+	"color_scheme": "Packages/User/2112.tmTheme",
+	"color_theme": "Packages/user/2112.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"show_definitions": true,
+	"show_encoding": false,
+	"show_error_inline": false,
+	"theme": "predawn.sublime-theme"
+}
